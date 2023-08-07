@@ -60,8 +60,9 @@ Now to verify that this step is completed go onto the web browser and enter 127.
 Continuing on we will now install the PHP Manager (PHPManagerForIIS_V1.5.0.msi) along with Rewrite Module (rewrite_amd64_en-US.msi). Open the files and go through the installation.
 
 The next step is to create the PHP folder in the C Drive
-![image](https://github.com/YossefElsawy/osticket-prereqs/assets/141590348/27c951a8-633d-4978-b52d-4a7235001877)
 
+<p>
+![image](https://github.com/YossefElsawy/osticket-prereqs/assets/141590348/27c951a8-633d-4978-b52d-4a7235001877)
 </p>
 <br />
 
