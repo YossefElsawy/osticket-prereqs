@@ -42,9 +42,11 @@ Search for Control Panel > Programs > Programs and Features > Turn Windows featu
 
 Make sure to tick the box for Internet Information Systems
 
-  Internet Information Systems > Application Development Features > [check] CGI  then 
+  Internet Information Systems > Application Development Features > [check] CGI
 
 Internet Information Systems > Common HTTP Features > [check] HTTP Redirection and WebDAV Publishing
+
+Now to verify that this step is completed go onto the web browser and enter 127.0.0.1 and you should get to a webpage that says Internet Information Services
 </p>
 <br />
 
