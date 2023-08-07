@@ -39,7 +39,9 @@ Now we will connect to the VM via a Remote Desktop Connection. You will need to 
 After logging into the VM, the first thing you will want to do is to Enable IIS in Windows and the other features. Step by step:
   
 Search for Control Panel > Programs > Programs and Features > Turn Windows features on or off
+
 Make sure to tick the box for Internet Information Systems
+
 Internet Information Systems > Application Development Features > [check] CGI  then Internet Information Systems > Common HTTP Features > [check] HTTP Redirection and WebDAV Publishing
 </p>
 <br />
