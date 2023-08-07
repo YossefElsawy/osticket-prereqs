@@ -64,9 +64,7 @@ The next step is to create the PHP folder in the C Drive.
 After you created the folder you want to download the PHP 7.3.8 folder (php-7.3.8-nts-Win32-VC15-x86.zip). 
 ### Note: Make sure to unzip the folder in the newly created PHP folder located in the C Drive.
 
-<p>
 ![image](https://github.com/YossefElsawy/osticket-prereqs/assets/141590348/27c951a8-633d-4978-b52d-4a7235001877)
-</p>
 
 <br />
 
