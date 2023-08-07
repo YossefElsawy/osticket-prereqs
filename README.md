@@ -23,8 +23,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - Create a Virtual Machine on Azure
-  
-[Loom: How To Create a Virtual Machine on Azure](https://www.loom.com/share/e7bb74ec79df42ae815d82b1f3953c32?sid=ac8feed0-3b61-41fc-8441-65f6489e6f3d)
+  : [Loom: How To Create a Virtual Machine on Azure](https://www.loom.com/share/e7bb74ec79df42ae815d82b1f3953c32?sid=ac8feed0-3b61-41fc-8441-65f6489e6f3d)
 
 - Item 2
 - Item 3
