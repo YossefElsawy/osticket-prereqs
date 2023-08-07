@@ -113,4 +113,30 @@ If you go back into IIS, you will see osTicket under 'Default Web Site' under co
 To enable the necessary PHP extensions, open IIS, navigate to sites > Default > osTicket; double-click PHP Manager. You will need to enable the following: php_imap.dll, php_intl.dll, and php_opcache.dll. Refresh the osTicket webpage and you will see a few more check marks added.
 
 Go to C:\inetpub\wwwroot\osTicket\include directory and rename "ost-sampleconfig.php" to "ost-config.php".
+In that same folder go back to ost-config.php and change the permissions
+Properties > Security > Advanced > Disable Inheritance > Remove all inherited permissions from this object. 
 
+Then you want to click Add > Select a Principal > Enter "Everyone" in the "Enter the object name to select" and then click "Check Names" > Okay
+
+After that you'll click on Full Control > Ok > Apply > Ok
+
+Go back to osTicket webpage and create a helpdesk name, email and admin user information. Make sure to remember the username.
+
+Lastly, we will download HeidiSQL ; go through the installation.
+
+Once it is opened, click new and then enter a password. Make sure to remember this password, this project I used 'Password1'; click open. 
+Use the SQL information to fill in the remaining information on the osTicket installation page. You will need the username, password, and the name of the sql database.
+To create the SQL database you will right click on 'Unnamed' > Create new > database. Title it osTicket. On the osTicket page finalize the entry and click install now.
+ 
+Finally, we will do some cleanup. Go to C:\inetpub\wwwroot\osTicket and delete the folder 'Setup'
+Then go to C:\inetpub\wwwroot\osTicket\include and right click on "ost-config,php"
+Properties > Security > Advanced
+Double click on "Everyone" and uncheck all of them except for "Read" and "Read and Execute" 
+Then click Ok > Apply > Ok
+
+This completes Section 1 of the lab
+
+<hr>
+<h1><p align=center>All Done</p></h1>
+
+<h2><p align=center>Next Demonstration:<br><a href="https://github.com/YossefElsawy/post-install-config/blob/main/README.md">osTicket - Post-Install Configuration</a></p></h2>
