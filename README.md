@@ -33,7 +33,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<>
+<Now we will connect to the VM via a Remote Desktop Connection. You will need to get the Public IP Address from the VM by clicking on the actual VM in Azure then getting the Public IP Address. Use the IP address to login on the RDP. After that the RDP will ask you for a login; make sure to use the username and password you created in the VM>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
