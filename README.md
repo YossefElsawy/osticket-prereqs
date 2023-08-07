@@ -24,7 +24,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Create a Virtual Machine on Azure : [Step 1: Create a Virtual Machine in Azure](https://www.loom.com/share/e7bb74ec79df42ae815d82b1f3953c32?sid=ac8feed0-3b61-41fc-8441-65f6489e6f3d)
 
-- Item 2
+- Have the installation items
+![image](https://github.com/YossefElsawy/osticket-prereqs/assets/141590348/89bde17e-b283-4c54-9a8a-d39edd9e23c7)
+
 - Item 3
 - Item 4
 - Item 5
