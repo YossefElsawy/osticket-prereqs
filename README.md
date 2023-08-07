@@ -23,7 +23,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - Create a Virtual Machine on Azure
-  : [Loom: How To Create a Virtual Machine on Azure](https://www.loom.com/share/e7bb74ec79df42ae815d82b1f3953c32?sid=ac8feed0-3b61-41fc-8441-65f6489e6f3d)
+  : [Step 1: How To Create a Virtual Machine in Azure](https://www.loom.com/share/e7bb74ec79df42ae815d82b1f3953c32?sid=ac8feed0-3b61-41fc-8441-65f6489e6f3d)
 
 - Item 2
 - Item 3
@@ -31,6 +31,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Item 5
 
 <h2>Installation Steps</h2>
+
+[Step 2: Connecting to VM and enabling features](https://www.loom.com/share/f596070ba6304f4e85bc57c7ae90f437?sid=1cb847d9-960d-41a8-b467-bf0c501760fe)
 
 <p>
 Now we will connect to the VM via a Remote Desktop Connection. You will need to get the Public IP Address from the VM by clicking on the actual VM in Azure then getting the Public IP Address. Use the IP address to login on the RDP. After that the RDP will ask you for a login; make sure to use the username and password you created in the VM.
