@@ -22,7 +22,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
+- Create a Virtual Machine on Azure
+- <a href="https://www.loom.com/share/e7bb74ec79df42ae815d82b1f3953c32?sid=1c0c70b2-52cf-479e-8d4c-e8765e92e064" target="_blank">Watch My Video</a>
+
 - Item 2
 - Item 3
 - Item 4
@@ -31,7 +33,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<https://www.loom.com/share/e7bb74ec79df42ae815d82b1f3953c32?sid=12c35200-749e-4ecb-8d58-ae2b3e18ef2a>
+<>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
