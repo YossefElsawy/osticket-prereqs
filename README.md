@@ -22,8 +22,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Create a Virtual Machine on Azure <video width="640" height="360" controls>
-    <source src="(https://www.loom.com/share/e7bb74ec79df42ae815d82b1f3953c32?sid=434e858a-bb72-4ca1-ad61-0849f9776efa)" type="video/mp4">
+- Create a Virtual Machine on Azure
+<video width="640" height="360" controls>
+    <source src="https://www.loom.com/share/e7bb74ec79df42ae815d82b1f3953c32?sid=93bb6f10-a08f-42c8-abfb-4b85ce353deb" type="video/mp4">
     Your browser does not support the video tag.
 </video>
 
