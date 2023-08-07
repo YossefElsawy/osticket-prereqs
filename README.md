@@ -42,7 +42,9 @@ Search for Control Panel > Programs > Programs and Features > Turn Windows featu
 
 Make sure to tick the box for Internet Information Systems
 
-Internet Information Systems > Application Development Features > [check] CGI  then Internet Information Systems > Common HTTP Features > [check] HTTP Redirection and WebDAV Publishing
+  Internet Information Systems > Application Development Features > [check] CGI  then 
+
+Internet Information Systems > Common HTTP Features > [check] HTTP Redirection and WebDAV Publishing
 </p>
 <br />
 
