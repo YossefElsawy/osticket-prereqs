@@ -8,7 +8,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Video Demonstration</h2>
 
-- ### Step by Step linked throughout the lab
+- ### Step by Step videos linked throughout the lab
 
 <h2>Environments and Technologies Used</h2>
 
